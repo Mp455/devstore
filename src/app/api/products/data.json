@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Moletom Vermelho",
+      "slug": "moletom-vermelho",
+      "price": 198.99,
+      "image": "/moletom-vermelho.png",
+      "description": "MOletom vermelho 100% algodão",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "moletom de Urso",
+      "slug": "moletom-urso",
+      "price": 119.99,
+      "image": "/moletom-urso.png",
+      "description": "Moletom branco com estampa de Urso 100% algodão",
+      "featured": false
+    },
+    {
+      "id": 3,
+      "title": "MOletom Preto",
+      "slug": "moletom-preto",
+      "price": 200.99,
+      "image": "/moletom-preto.png",
+      "description": "MOletom preto 100% algodão",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "Moletom Branco",
+      "slug": "moletom-branco",
+      "price": 154.99,
+      "image": "/moletom-branco.png",
+      "description": "Moletom branco 100% algodão",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Moletom azul",
+      "slug": "moletom-azul",
+      "price": 59.99,
+      "image": "/moletom-azul.png",
+      "description": "Moletom azul com estampa de baleia 100% algodão",
+      "featured": true
+    }
+  ]
+}
