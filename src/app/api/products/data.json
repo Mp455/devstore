@@ -20,9 +20,9 @@
     },
     {
       "id": 3,
-      "title": "MOletom Preto",
+      "title": "Moletom Preto",
       "slug": "moletom-preto",
-      "price": 200.99,
+      "price": 200.0,
       "image": "/moletom-preto.png",
       "description": "MOletom preto 100% algodão",
       "featured": true
